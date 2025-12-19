@@ -13,7 +13,7 @@
 ### 🚀 Sobre mim
 Sou desenvolvedor **Mobile & Backend**, com foco em aplicações **robustas**, **escaláveis** e prontas para produção.
 
-No **Flutter**, tenho sólida experiência no desenvolvimento de aplicações Android e iOS, utilizando diferentes abordagens de **gerenciamento de estado**, como **Provider**, **GetIt** e **BLoC**, sempre aplicando padrões como **MVVM** e **Clean Architecture**. Trabalho com consumo e integração de **APIs REST**, monitoramento de erros e performance com **Firebase Crashlytics**, além de integrações com serviços do **Firebase** (Auth, Firestore, FCM). Também possuo experiência em **integração com código nativo Android**, utilizando **Kotlin** para casos específicos de performance ou acesso a recursos da plataforma.
+No **Flutter**, tenho sólida experiência no desenvolvimento de aplicações Android e iOS, utilizando diferentes abordagens de **gerenciamento de estado**, como **Provider**, **GetIt** e **BLoC**, sempre aplicando padrões como **MVVM** e **Clean Architecture**. Trabalho com consumo e integração de **APIs REST**, monitoramento de erros e performance com **Firebase Crashlytics**, além de integrações com serviços do **Firebase** (Auth, Firestore, FCM). Também possuo experiência em **integração com código nativo Android**, utilizando **Kotlin**, **Java** e **Swift** para casos específicos de performance ou acesso a recursos da plataforma.
 
 No **backend com Node.js**, atuo no desenvolvimento de **APIs REST** utilizando **Express** e **Fastify**, com foco em performance, organização e segurança. Tenho experiência com bancos de dados relacionais como **PostgreSQL**, **MySQL** e **MariaDB**, incluindo modelagem, queries otimizadas e manutenção de dados em **cache** para ganho de desempenho. Utilizo boas práticas como gerenciamento de variáveis de ambiente com **.env**, escrita de **testes de API**, e preparo de aplicações para produção.
 
@@ -38,14 +38,15 @@ Possuo experiência em **deploy e manutenção de aplicações** em ambientes co
 🔗 https://apps.apple.com/us/app/ratoeira-ads/id6736846004
 
 **Descrição:**  
-Plataforma mobile voltada para anúncios e visualização de métricas, com foco em performance e experiência do usuário.
+Plataforma mobile focada em notificações e metricas de afiliados.
 
 **Tecnologias e conceitos utilizados:**
 - Flutter & Dart  
 - Provider (gerenciamento de estado)  
 - Arquitetura **MVVM**  
 - Consumo de APIs REST com **Dio**  
-- Gráficos e métricas com **fl_chart**  
+- Gráficos e métricas com **fl_chart**
+- Firebase push notification 
 
 ---
 
@@ -107,5 +108,5 @@ Plataforma mobile voltada para anúncios e visualização de métricas, com foco
 </p>
 
 <p align="center">
-  💡 “Código limpo não é escrito seguindo regras, é escrito por quem se importa.”
+  💡 “Lembre-se da lição e não da decepção.”
 </p>
