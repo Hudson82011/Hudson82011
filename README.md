@@ -31,7 +31,7 @@ Possuo experiência em **deploy e manutenção de aplicações** em ambientes co
 ## ⭐ Projetos em Destaque
 
 ### 🧠 Ratoeira Ads
-📱 Aplicativo mobile publicado na **Google Play**
+📱 Aplicativo mobile publicado na **Google Play** e na **Apple Store**
 
 🔗 https://play.google.com/store/apps/details?id=com.ratoeiraads.ratoeiraads
 
